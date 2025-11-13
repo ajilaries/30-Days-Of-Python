@@ -1,0 +1,12 @@
+in python there are buit in function they are available globally  
+they are 
+for example 
+
+_print(),
+_len(),
+_str(),
+
+these are the built in functions these are the commonly used built in functions 
+
+
+varibles are used to store data in a computer .
