@@ -23,3 +23,8 @@ age=21
 year=2025
 is_married='no'
 is_true='yes'
+
+
+print('first name type',type(firstname))
+print('last name type',type(lastname))
+print('first name length',len(firstname))
